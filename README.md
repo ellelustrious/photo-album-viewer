@@ -15,3 +15,4 @@ album.totalArea();
 ```
 
 ### Output:
+![output image](https://raw.githubusercontent.com/ellelustrious/photo-album-viewer/master/photo-album-viewer.png)
